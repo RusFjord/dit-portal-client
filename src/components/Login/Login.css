@@ -1,0 +1,29 @@
+.login-form {  
+    margin-top: 1em;
+    display: flex;
+    justify-content: center;
+}
+
+.login-input {
+    margin-bottom: 1em;
+    width: 100%;
+}
+
+.login-input-button {
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.login-text-field {
+    width: 100%;
+}
+
+.login-form-group {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+}
